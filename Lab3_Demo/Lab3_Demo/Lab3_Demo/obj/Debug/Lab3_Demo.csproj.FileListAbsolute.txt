@@ -1,0 +1,23 @@
+D:\game\bài làm\Lab03\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.csproj.AssemblyReference.cache
+D:\game\bài làm\Lab03\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.csproj.SuggestedBindingRedirects.cache
+D:\game\bài làm\Lab03\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.frmSinhVien.resources
+D:\game\bài làm\Lab03\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.Properties.Resources.resources
+D:\game\bài làm\Lab03\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.csproj.GenerateResource.cache
+D:\game\bài làm\Lab03\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.csproj.CoreCompileInputs.cache
+D:\game\bài làm\Lab03\Lab3_Demo\Lab3_Demo\bin\Debug\Lab3_Demo.exe.config
+D:\game\bài làm\Lab03\Lab3_Demo\Lab3_Demo\bin\Debug\Lab3_Demo.exe
+D:\game\bài làm\Lab03\Lab3_Demo\Lab3_Demo\bin\Debug\Lab3_Demo.pdb
+D:\game\bài làm\Lab03\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.exe
+D:\game\bài làm\Lab03\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.pdb
+D:\game\bài làm\Lab03\Lab3_Demo\Lab3_Demo\bin\Debug\DanhSachSV.csv
+C:\Users\nguyendlq\Desktop\Lab03 - Copy\Lab3_Demo\Lab3_Demo\bin\Debug\DanhSachSV.csv
+C:\Users\nguyendlq\Desktop\Lab03 - Copy\Lab3_Demo\Lab3_Demo\bin\Debug\Lab3_Demo.exe.config
+C:\Users\nguyendlq\Desktop\Lab03 - Copy\Lab3_Demo\Lab3_Demo\bin\Debug\Lab3_Demo.exe
+C:\Users\nguyendlq\Desktop\Lab03 - Copy\Lab3_Demo\Lab3_Demo\bin\Debug\Lab3_Demo.pdb
+C:\Users\nguyendlq\Desktop\Lab03 - Copy\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.csprojAssemblyReference.cache
+C:\Users\nguyendlq\Desktop\Lab03 - Copy\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.frmSinhVien.resources
+C:\Users\nguyendlq\Desktop\Lab03 - Copy\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.Properties.Resources.resources
+C:\Users\nguyendlq\Desktop\Lab03 - Copy\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.csproj.GenerateResource.cache
+C:\Users\nguyendlq\Desktop\Lab03 - Copy\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.csproj.CoreCompileInputs.cache
+C:\Users\nguyendlq\Desktop\Lab03 - Copy\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.exe
+C:\Users\nguyendlq\Desktop\Lab03 - Copy\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.pdb
